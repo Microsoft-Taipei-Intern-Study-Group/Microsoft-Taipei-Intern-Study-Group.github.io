@@ -30,6 +30,7 @@ permalink: /
 - 自動報班系統實戰，蕭勝興、林祥瑞主講
 - 12/01 09:30 ~ 12:00
 - 請先完成[環境設定](https://microsoftapc-my.sharepoint.com/:p:/g/personal/v-linxi_microsoft_com/EUiJjDuj0vVCuzgoPxxw6H8BVbbyTdw1XtblPNUlW9r27w?e=kPjYQF)
+- 地點：1602
 
 ## 第二次讀書會
 
