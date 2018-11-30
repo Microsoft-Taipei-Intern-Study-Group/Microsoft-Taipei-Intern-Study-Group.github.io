@@ -22,6 +22,9 @@ permalink: /
 
 固定每三週一次，遇學校考試或國定假日另行調整，
 
+# OneDrive
+所有的教材都會放在[這邊](https://microsoftapc-my.sharepoint.com/:f:/g/personal/v-linxi_microsoft_com/Etxyjg4nUsBLgrJVL4bf8Y0Bjvx1lESranQb6F4AWAb5cw?e=J8dVIf)
+
 ## 第一次讀書會
 
 - 自動報班系統實戰，蕭勝興、林祥瑞主講
