@@ -27,6 +27,7 @@ permalink: /
 - 自動報班系統實戰，蕭勝興、林祥瑞主講
 - 12/01 09:30 ~ 12:00
 - 請先完成[環境設定](https://microsoftapc-my.sharepoint.com/:p:/g/personal/v-linxi_microsoft_com/EUiJjDuj0vVCuzgoPxxw6H8BVbbyTdw1XtblPNUlW9r27w?e=kPjYQF)
+- 有來上課的同學請記得填寫 [滿意度調查](https://forms.office.com/Pages/ResponsePage.aspx?id=v4j5cvGGr0GRqy180BHbRx5H4IBJ2QJIiTZT_1IcxT5UMzY5OFVDUkg1NjdHUDROWVlEUDJBREs1WS4u&fbclid=IwAR0gWsFQjIBhrWAXT0bg3DbaGH9x6secmircyvOiF7XzV1Uyibq4Aly9Rt8) ～
 
 ## 第二次讀書會
 
