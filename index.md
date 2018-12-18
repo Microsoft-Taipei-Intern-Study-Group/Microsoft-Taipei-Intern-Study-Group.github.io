@@ -51,4 +51,5 @@ permalink: /
 - Amber (A 組)
 - James (A 組)
 - Jerry (A 組)
+- Hsin (G 組)
 - Kevin (G 組)
