@@ -23,7 +23,7 @@ permalink: /
 固定每三週一次，遇學校考試或國定假日另行調整，
 
 # OneDrive
-所有的教材都會放在[這邊](https://microsoftapc-my.sharepoint.com/:f:/g/personal/v-linxi_microsoft_com/Etxyjg4nUsBLgrJVL4bf8Y0Bjvx1lESranQb6F4AWAb5cw?e=J8dVIf)
+所有的教材都會放在 [1drv](https://microsoftapc-my.sharepoint.com/:f:/g/personal/v-linxi_microsoft_com/Etxyjg4nUsBLgrJVL4bf8Y0Bjvx1lESranQb6F4AWAb5cw?e=J8dVIf)，請搭配上課食用～
 
 ## 第一次讀書會
 
@@ -35,7 +35,14 @@ permalink: /
 
 ## 第二次讀書會
 
-- 12/22 09:30 ～ 12:00 （暫定）
+- 出神入化 Python 林志皓主講
+- 一秒鐘學會網頁語言 林祥瑞主講
+- 12/22 09:30 ～ 12:00
+- 未曾參加讀書會者請先完成[環境設定](https://microsoftapc-my.sharepoint.com/:p:/g/personal/v-linxi_microsoft_com/EUiJjDuj0vVCuzgoPxxw6H8BVbbyTdw1XtblPNUlW9r27w?e=kPjYQF)
+
+## 第二次讀書會
+
+- 暫定 2019 年 01/19 日
 
 # 工人們
 
