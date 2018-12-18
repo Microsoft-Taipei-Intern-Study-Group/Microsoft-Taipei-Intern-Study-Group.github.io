@@ -40,7 +40,7 @@ permalink: /
 - 12/22 09:30 ～ 12:00
 - 未曾參加讀書會者請先完成[環境設定](https://microsoftapc-my.sharepoint.com/:p:/g/personal/v-linxi_microsoft_com/EUiJjDuj0vVCuzgoPxxw6H8BVbbyTdw1XtblPNUlW9r27w?e=kPjYQF)
 
-## 第二次讀書會
+## 第三次讀書會
 
 - 暫定 2019 年 01/19 日
 
